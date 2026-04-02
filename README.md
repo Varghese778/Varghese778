@@ -12,6 +12,14 @@
   <a href="https://devpost.com/sharingum11"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
 </p>
 
+
+<p align="center">
+<a href="https://github.com/Varghese778">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+MirAI+%26+Intelligent+Tools;Always+Learning+%26+Exploring!" alt="Typing SVG" />
+</a>
+</p>
+
+
 </div>
 
 ---
