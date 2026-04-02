@@ -88,6 +88,8 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+
+
 ---
 
 ## </> Featured Projects
