@@ -4,22 +4,19 @@
 <h3>Software Developer & AI Enthusiast | Building working Solutions</h3>
 
 <p align="center">
-  <a href="https://github.com/Varghese778">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+MirAI+%26+Intelligent+Tools;Always+Learning+%26+Exploring!" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+MirAI+%26+Intelligent+Tools;Always+Learning+%26+Exploring!" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://linkedin.com/in/sharon-varghese"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Varghese778"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:sharonvarghese778@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/sharon-varghese"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://devpost.com/sharingum11"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
 </p>
 
 </div>
 
 ---
 
-## -- About Me
+## </> About Me
 
 I love bridging the gap between cutting-edge Artificial Intelligence and practical applications — from healthcare diagnostics to AI automation tools!
 
@@ -33,7 +30,7 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
 
 ---
 
-## -- Tech Stack & Tools
+## </> Tech Stack & Tools
 
 <div align="center">
 <p>Languages</p>
@@ -85,7 +82,7 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
 </p>
 ---
 
-## -- Featured Projects
+## </> Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -96,7 +93,7 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
 
 ---
 
-## -- GitHub Stats
+## </> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varghese778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
