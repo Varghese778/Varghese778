@@ -35,7 +35,9 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
 
 ## -- Tech Stack & Tools
 
-### - Languages
+<div align="center">
+<h1>Languages</h1>
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
