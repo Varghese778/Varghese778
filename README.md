@@ -34,7 +34,6 @@ I love bridging the gap between cutting-edge Artificial Intelligence and practic
 | **Currently learning** | Deeper LLM integrations, multi-stage reasoning engines, advanced ML cascade pipelines, and DSA with Java |
 | **Looking to collaborate on** | Open-source AI projects, Healthcare Tech, Chrome Extensions, and scalable full-stack applications |
 | **Ask me about** | Python, Machine Learning, JavaScript, Chrome Extension APIs, and Full-Stack Development |
-| **Fun fact** | I build AI tools that range from detecting cognitive decline to making web navigation seamless through voice commands! |
 
 ---
 
